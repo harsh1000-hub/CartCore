@@ -1,0 +1,1 @@
+Cart Core - A ecommerce Java Backend based project.
